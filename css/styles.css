@@ -1,4 +1,8 @@
 /* GENERAL */
+body{
+  margin: 0;
+  padding: 0;
+}
 .center{
   text-align: center;
 }
@@ -112,18 +116,6 @@
 }
 .text-aboutus{
   font-size: 2.5rem;
-}
-.ad-page{
-  background-color: black;
-}
-.pass-ad{
-  width: 80%;
-  font-size: 2rem;
-  padding: 0 10%;
-}
-.banner-ad{
-  width: 80%;
-  padding: 0 10%;
 }
 .menu-page{
   width: 100%;
